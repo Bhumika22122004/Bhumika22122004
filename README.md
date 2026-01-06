@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Bhumika </h1>
+<h3 align="center">B.Tech ECE Student | AI/ML Enthusiast | Python Developer</h3>
+
+---
 # 💫 About Me:
 I am a motivated B.Tech ECE student with strong interest in Artificial Intelligence, Machine Learning, and Python development. I enjoy building real-world projects involving CNN-based computer vision, IoT systems using Arduino, autonomous drone development, and AI-powered chatbots. I am eager to gain practical industry experience and contribute to innovative, technology-driven projects.
 
